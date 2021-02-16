@@ -1,5 +1,5 @@
 {
-  "name": "express_crash_course",
+  "name": "Just_Express",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Greg Banks",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
